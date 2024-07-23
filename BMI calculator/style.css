@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+    font-size: 2rem;
+}
+
+input{
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+button{
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: rgb(97, 97, 223);
+}
